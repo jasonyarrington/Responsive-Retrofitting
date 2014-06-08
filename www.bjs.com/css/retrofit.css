@@ -1,9 +1,12 @@
-div#header {
-    outline: 3px solid purple;
-    background-color: lightgrey;
+@media all and (min-width: 760px) {
+    div#header {
+        outline: 3px solid purple;
+        background-color: lightgrey;
+    }
 }
 
-@media all and (max-width: 800px) {
+
+@media all and (max-width: 760px) {
     div#header {
         max-width: 980px;
         width: initial;
