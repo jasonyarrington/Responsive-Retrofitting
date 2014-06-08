@@ -1,5 +1,6 @@
-.plist li .item {
-    border: 3px solid orange;
+div#header {
+    outline: 3px solid purple;
+    background-color: lightgrey;
 }
 
 @media all and (max-width: 800px) {
