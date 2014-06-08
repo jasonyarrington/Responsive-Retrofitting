@@ -1,0 +1,49 @@
+.plist li .item {
+  border: 3px solid orange;
+}
+
+
+div#header {
+  max-width: 980px;
+  width: initial;
+  height: initial;
+}
+div#headerTop {
+  border: 1px solid red;
+  width:  initial;
+}
+#header .search {
+  width: initial;
+}
+div.newHeaderBox {
+  height: initial;
+}
+div#headerMiddle {
+  height: initial;
+}
+div#wrapper {
+  display: none;
+}
+div#footer {
+  display: none;
+}
+div#smallFooter {
+  display: none;
+}
+.newHeaderBox .newNavigationBar li {
+  display: block;
+  float: none;
+}
+img.bjsFtSprit.bjsTopnav {
+  display: none;
+}
+.newHeaderBox .newNavigationBar li {
+  float: none;
+  width: 100%;
+}
+div.newNavigationBar.travel-services.travel-services {
+  display: none;
+}
+ul.newNavigationBar.selectFree {
+  width: 100%;
+}
