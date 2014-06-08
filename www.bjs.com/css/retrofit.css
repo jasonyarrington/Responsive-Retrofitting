@@ -1,16 +1,16 @@
 @media all and (min-width: 760px) {
     div#header {
-        outline: 3px solid purple;
+        border: 3px solid purple;
         background-color: lightgrey;
     }
     div#wrapper {
-        outline: 3px solid orangered;
+        border: 3px solid orangered;
     }
     div#footer .box {
-        outline: 3px solid orangered;
+        border: 3px solid orangered;
     }
     div#smallFooter {
-        outline: 3px solid orangered;
+        border: 3px solid orangered;
     }
 }
 
