@@ -14,11 +14,11 @@
     }
     /* This section is going to be tricky.  Need to review how the RMUs are managed.  Maybe we can swap out for simpler feature images */
     div#container {
-        outline: 1px solid red;
+        outline: 3px solid red;
     }
     /* Review how these are added.  Are they dynamic or fairly static */
     div.genericESpot {
-        outline: 1px solid yellow;
+        outline: 3px solid yellow;
     }
 }
 
