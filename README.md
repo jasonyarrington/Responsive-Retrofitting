@@ -20,7 +20,7 @@ This simple little bookmarklet gives you a chance to flex your #rwd muscles. Pra
 Also, one note. This is only working in WebKit browsers right now. If someone wants to help me figure out why, I'd be much obliged.
 
 ### Install
-[Read this page for installation instructions.](http://sparkbox.github.com/Responsive-Retrofitting)
+[Read this page for installation instructions.](https://github.com/jasonyarrington/Responsive-Retrofitting)
 
 ### Use
 Now, you can visit any of these sites and run the bookmarklet to see the changes.
