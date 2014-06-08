@@ -3,6 +3,15 @@
         outline: 3px solid purple;
         background-color: lightgrey;
     }
+    div#wrapper {
+        outline: 3px solid orangered;
+    }
+    div#footer {
+        outline: 3px solid orangered;
+    }
+    div#smallFooter {
+        outline: 3px solid orangered;
+    }
 }
 
 
