@@ -6,7 +6,7 @@
     div#wrapper {
         outline: 3px solid orangered;
     }
-    div#footer {
+    div#footer .box {
         outline: 3px solid orangered;
     }
     div#smallFooter {
